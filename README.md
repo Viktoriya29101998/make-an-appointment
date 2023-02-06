@@ -1,5 +1,5 @@
 # Запись на встречу
-Ссылка на таблицу - https://docs.google.com/spreadsheets/d/1JRS9wxzZ_SdFealpNafWeaHZhpYntAV_y4gEdcz3ZBM
+Ссылка на таблицу - [Запись на встречу](https://docs.google.com/spreadsheets/d/1JRS9wxzZ_SdFealpNafWeaHZhpYntAV_y4gEdcz3ZBM)    
 
 Была поставлена задача - сделать форму записи для преподавателей в гугл-таблице. 
 <img src="https://user-images.githubusercontent.com/45171720/216897934-ad8b7184-3083-43a4-bd1d-b64625a5ef84.png" width="500">
